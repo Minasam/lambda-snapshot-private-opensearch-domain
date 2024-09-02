@@ -1,0 +1,16 @@
+{
+  "name": "lambda-archive-firehose-indices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mina Samir",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/credential-provider-node": "^3.637.0",
+    "@opensearch-project/opensearch": "^3.0.0-beta.5"
+  }
+}
